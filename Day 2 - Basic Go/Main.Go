@@ -1,11 +1,7 @@
 package main
 
-import "fmt"
 
-func main()  {
+func main() {
+	e := echo
 
-for i :=0; i <= 3; i++ {
-	fmt.Print("*")
-}
-
-}
+} 
